@@ -51,4 +51,4 @@ This project is licensed under the MIT License, permitting unrestricted use, dis
 
 Author:
 
-[Curtis Grimbaldest]
+[Curtis Grimbaldeston
